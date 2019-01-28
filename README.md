@@ -10,3 +10,7 @@ Semantic segmentation is the differentiation of the meaningful parts on an image
 WBC segmentation had been proposed before, but the convolutional neural network architectures were not tried for this task. Therefore, in this project, the semantic segmentation was performed on free access dataset, which is composed of microscopic images and segmented ground truth images, of WBC, made by experts. The dataset was filtered, transformed and augmented in order to be used in an artificial neural network. Some segmentation models, such as U-Net, SegNet and DeconvNet, were chosen, adapted and trained to/with this data. These architectures are known very well and have been employed in segmentation tasks since at least 2015. After training, the models were evaluated, using different metrics (accuracy, Jaccard similarity index and Sørensen–Dice similarity coefficent), with the same dataset, although the validation images were not included in training, thus they were new to the models. Jupyter notebook from the free Google platform called Colaboratory was used for the training and evaluation of the models.
 
 Although all three models achieved very high scores in distinct metrics. U-Net architecture resulted in being the best model for segmenting, as well as the fastest one for the training process.
+
+##### Full Text
+
+Link : http://hdl.handle.net/10609/82166
