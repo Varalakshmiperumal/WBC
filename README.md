@@ -13,4 +13,4 @@ Although all three models achieved very high scores in distinct metrics. U-Net a
 
 ##### Full Text
 
-Link : http://hdl.handle.net/10609/82166
+Link : http://hdl.handle.net/10609/90265
